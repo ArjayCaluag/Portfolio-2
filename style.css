@@ -11,7 +11,7 @@
 
 }
 
-#navbar1 {
+#navbar1, .card-content {
     background-color: rgb(46, 45, 45);
 }
 
@@ -34,4 +34,8 @@
 
 html{
     scroll-behavior: smooth;
+}
+
+.footer {
+    background-color: rgb(46, 45, 45);
 }
