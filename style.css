@@ -1,9 +1,8 @@
-#picture {
-    background-color: black;
-}
+
 
 #about-me {
-    background-color:gray;
+    background-color: rgba(46, 45, 45, 0.3);
+   
 }
 
 #content1 {
@@ -13,7 +12,7 @@
 }
 
 #navbar1 {
-    background-color: gray;
+    background-color: rgb(46, 45, 45);
 }
 
 #intro{
@@ -24,6 +23,10 @@
     padding-bottom: 10%;
    
   
+}
+
+#about-me-sec, #picture {
+    background-color: rgb(26, 26, 26);
 }
 /* #intro {
     background-color: gray;
