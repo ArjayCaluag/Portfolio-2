@@ -1,14 +1,14 @@
+#content1 {
+    background: url(assets/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg);
+    background-size: cover;
+
+}
 
 #about-me {
     background-color: rgba(46, 45, 45, 0.3);
    
 }
 
-#content1 {
-    background: url(assets/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg);
-    background-size: cover;
-
-}
 
 #navbar1, .card-content {
     background-color: rgb(46, 45, 45);
@@ -33,6 +33,6 @@ html{
     scroll-behavior: smooth;
 }
 
-.footer {
+/* .footer {
     background-color: rgb(46, 45, 45);
-}
+} */
