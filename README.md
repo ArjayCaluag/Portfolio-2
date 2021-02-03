@@ -80,10 +80,6 @@ Ron-Arjay Caluag<br>
 [Linkedin](https://www.linkedin.com/in/ron-arjay-caluag-00b29b182/)<br>
 [Github](https://github.com/ArjayCaluag)
 
-Peter Ting<br>
-[Linkedin](https://www.linkedin.com/in/pting002/)<br>
-[Github](https://github.com/Pting1995)
-# **License**
 
 The MIT License (MIT)
 
