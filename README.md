@@ -1,4 +1,4 @@
-# **Work Day Scheduler**
+# **Portfolio2**
 This updated portfolio was mainly built with the Bulma library. We were tasked to personalize it and showcase the progress that we have made so far since joining the program. 
 
 <br><br>
